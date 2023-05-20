@@ -1,0 +1,8 @@
+[ 2023-05-20 19:57:00,406 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-20 19:57:00,406 ] 224 werkzeug - INFO -  * Debugger PIN: 333-075-852
+[ 2023-05-20 19:57:48,844 ] 224 werkzeug - INFO -  * Detected change in 'e:\\ml_oop\\mlproject_airbnb\\mlproject_airbnb\\src\\components\\model_trainer.py', reloading
+[ 2023-05-20 19:57:48,845 ] 224 werkzeug - INFO -  * Detected change in 'E:\\ML_OOP\\mlproject_airbnb\\mlproject_airbnb\\src\\components\\model_trainer.py', reloading
+[ 2023-05-20 19:57:48,846 ] 224 werkzeug - INFO -  * Detected change in 'e:\\ml_oop\\mlproject_airbnb\\mlproject_airbnb\\src\\components\\model_trainer.py', reloading
+[ 2023-05-20 19:57:48,847 ] 224 werkzeug - INFO -  * Detected change in 'e:\\ml_oop\\mlproject_airbnb\\mlproject_airbnb\\src\\components\\model_trainer.py', reloading
+[ 2023-05-20 19:57:48,868 ] 224 werkzeug - INFO -  * Detected change in 'E:\\ML_OOP\\mlproject_airbnb\\mlproject_airbnb\\src\\components\\model_trainer.py', reloading
+[ 2023-05-20 19:57:48,868 ] 224 werkzeug - INFO -  * Detected change in 'e:\\ml_oop\\mlproject_airbnb\\mlproject_airbnb\\src\\components\\model_trainer.py', reloading

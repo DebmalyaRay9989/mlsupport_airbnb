@@ -1,0 +1,12 @@
+[ 2023-05-20 20:02:05,122 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-20 20:02:05,138 ] 224 werkzeug - INFO -  * Debugger PIN: 333-075-852
+[ 2023-05-20 20:37:31,317 ] 224 werkzeug - INFO -  * Detected change in 'E:\\ML_OOP\\mlproject_airbnb\\mlproject_airbnb\\app.py', reloading
+[ 2023-05-20 20:37:31,317 ] 224 werkzeug - INFO -  * Detected change in 'e:\\ml_oop\\mlproject_airbnb\\mlproject_airbnb\\app.py', reloading
+[ 2023-05-20 20:37:31,667 ] 224 werkzeug - INFO -  * Detected change in 'e:\\ml_oop\\mlproject_airbnb\\mlproject_airbnb\\app.py', reloading
+[ 2023-05-20 20:37:31,668 ] 224 werkzeug - INFO -  * Detected change in 'E:\\ML_OOP\\mlproject_airbnb\\mlproject_airbnb\\app.py', reloading
+[ 2023-05-20 20:37:31,669 ] 224 werkzeug - INFO -  * Detected change in 'e:\\ml_oop\\mlproject_airbnb\\mlproject_airbnb\\app.py', reloading
+[ 2023-05-20 20:37:31,670 ] 224 werkzeug - INFO -  * Detected change in 'E:\\ML_OOP\\mlproject_airbnb\\mlproject_airbnb\\app.py', reloading
+[ 2023-05-20 20:37:31,670 ] 224 werkzeug - INFO -  * Detected change in 'e:\\ml_oop\\mlproject_airbnb\\mlproject_airbnb\\app.py', reloading
+[ 2023-05-20 20:37:31,671 ] 224 werkzeug - INFO -  * Detected change in 'E:\\ML_OOP\\mlproject_airbnb\\mlproject_airbnb\\app.py', reloading
+[ 2023-05-20 20:37:31,671 ] 224 werkzeug - INFO -  * Detected change in 'e:\\ml_oop\\mlproject_airbnb\\mlproject_airbnb\\app.py', reloading
+[ 2023-05-20 20:37:31,672 ] 224 werkzeug - INFO -  * Detected change in 'E:\\ML_OOP\\mlproject_airbnb\\mlproject_airbnb\\app.py', reloading
